@@ -1,0 +1,1 @@
+grep -is used to find something inside a file, prints out the matching lines
